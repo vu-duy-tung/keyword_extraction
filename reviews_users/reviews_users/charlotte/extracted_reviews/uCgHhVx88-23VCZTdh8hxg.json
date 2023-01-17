@@ -1,0 +1,971 @@
+{
+  "-A40ajVyz1RFHbQfzGP_QQ": {
+    "date": "11/30/2013",
+    "text": "This place is a legacy. Everything is good. I love the Somora, but you cannot go wrong with anything on the menu.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "JZCMIp4e9eSIqcSH6RAwWw"
+  },
+  "cwGEF6YOwFVEXTCKbt4ymw": {
+    "date": "8/17/2013",
+    "text": "The Gyro was surprisingly good. I have been to 3 different locations. The food is pretty consistent and pretty good.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "CDZ8OidCgzFq0eCdt6suVg"
+  },
+  "dIsbheWTYyA9bv5A7WLFDg": {
+    "date": "1/20/2011",
+    "text": "I always passed this place never thought of going in until now! Glad I did their fried flounder, fried okra and coleslaw is to die for. Staff was super friendly. I will be making another trip there!",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "r4efvMOHAKGPMi30fxs-SQ",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media4.fl.yelpcdn.com/bphoto/r4efvMOHAKGPMi30fxs-SQ/o.jpg"
+      },
+      {
+        "img_id": "QIy_66Tzk7k8clUMS0_CYA",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. The Flounder and cold slaw is the best!!!",
+        "img_link": "https://s3-media4.fl.yelpcdn.com/bphoto/QIy_66Tzk7k8clUMS0_CYA/o.jpg"
+      }
+    ],
+    "user_id": "MswMUSnowo3XFiMln8eY-g"
+  },
+  "fMUMWhRzruC5fXqkjZ62tA": {
+    "date": "7/20/2010",
+    "text": "Love this place. Flavorful food, fantastic pricing plus attentive service. Don't let ordering at the counter put you off. The staff at Shomars speed you through the ordering process then they hand you a number and you choose your booth. Within minutes your food is brought to you piping hot. I generally order the large Greek salad with Gyro meat $6.95. They could easily charge $9.95 for this portion. I order an extra side of gyro meat $2.50 and it is a feast that quenches my XL appetite at dinner time. Order whatever you like...it all looks great!",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 2,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "WofaDyYowa1GkEpQqVxBFg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media4.fl.yelpcdn.com/bphoto/WofaDyYowa1GkEpQqVxBFg/o.jpg"
+      }
+    ],
+    "user_id": "N667DoSR57cOUysFmxVG2Q"
+  },
+  "v_vN5AFRjB-kEQpYzGrdkQ": {
+    "date": "2/9/2013",
+    "text": "The food was good and the waitress was nice. But this restaurant was not clean. We were the first and only people in the restaurant on a Saturday morning and the tables were nasty. The floors had trash all over them. There was dust around the windows and possible old ketchup. I won't come back to this location. The one on east blvd is much cleaner.",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "tr1pRfJMD3vXgoBrObaQGA"
+  },
+  "h0rJ8Wj3IcgUR6xGlzBE9Q": {
+    "date": "3/6/2012",
+    "text": "Cant go wrong with this place specialy if you need a family eat out spot.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "xEpaUH5WYB-sEuWtAcTBRw"
+  },
+  "d9HmchsdfKbr6r-K3jjvYg": {
+    "date": "5/9/2014",
+    "text": "Best fries in Charlotte,,,great service (always), great value, good selection. LOVE the Super \"C\" burger, loaded,,,,,always leave with a  full belly....",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "mafLa16x7mD8hFLEjzW7oA"
+  },
+  "krXzyUR1MtKPUTItF0i9NQ": {
+    "date": "7/6/2011",
+    "text": "Get the large Greek salad with gyro.... delish",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "r6U4CmzLUJvtAhHNdloYPw"
+  },
+  "SsMR2J9AFE_dy3goIcq9OQ": {
+    "date": "4/30/2009",
+    "text": "Even though all their good is deep fried and artery clogging, I truly love Showmars. My personal favorite is their fish sandwich with lots of tarter sauce and onion rings on the side. The fish is fresh and the onion rings are thick and delicious. I also like the gyros, fish platters, burgers, and hot dogs. It is a fun place to go for a casual lunch and I would definitely recommend it. My only word of caution is to stay away from the chicken tenders because they are frozen and not worth the money.",
+    "rating": 4,
+    "rated": {
+      "funny": 2,
+      "useful": 2,
+      "cool": 2
+    },
+    "photos": [],
+    "user_id": "6jLniOP59WvLFfHx8c4tvA"
+  },
+  "mjDh1mYlZ_rrzJiQhyfo4Q": {
+    "date": "1/2/2017",
+    "text": "My wife an I love their salads (in the bowl, not in the shell).  I also am a fan of their dinners, especially the fish dinner with slaw and fires.  And we cannot leave the cookies alone!  All-in-all, a very good restaurant with a nice selection.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "0e8OHqORGaM7We8fSho48A"
+  },
+  "SOvH2uBtNC7vWyeRNLZN2Q": {
+    "date": "1/14/2015",
+    "text": "Fast food meets \"Greek\" food.  If you want to enjoy Mediterranean food then this is not the place.  This is the fast food equivalent of Olive Garden doing Italian, Olive Garden isn't fast food but it also isn't Italian.  Showmars is fast food but its take on Greek isn't really Greek.  I still eat here because it is cheap and close enough.  Don't expect to rave about the tzatziki sauce.  That is what keeps this place from being a 4, and almost got it a 2.  The tzatziki  misses all the flavor notes I really want.  I only ever go here for carryout lunch.  It was a huge hit at the doctor's office I used to work at.  The people were blessed Southern folk but had no idea what Greek food could or should taste like so they found it happy.  If you haven't ever really had great Greek food then this place will work just fine.  I haven't had great Greek food anywhere outside of Europe and New York City . . . yet.  I want to find my Charlotte Greek place and until I do I will pretend Showmars is Greek as a way to keep me from losing hope.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "5KQG9WqjlWIdaJKizt78wA"
+  },
+  "cjJlFUg6HVTF4xGdsIBXEQ": {
+    "date": "5/28/2016",
+    "text": "Gyros is my favorite and the perch is excellent also. For some reason the haven't been able to accept gift cards for like six months now. Not sure why the one on Eastway is taking them. Still one of our family's favorite places to go in the Queen City. The pita burgers are unique also for the burger lover who is looking for something a little different.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "5bBxOyXVTgLQLcA1gIrf-w"
+  },
+  "EtelQD5wzPt2DSDiUHUF7w": {
+    "date": "10/29/2011",
+    "text": "Always on the look out for a good Gyro! So I found this place on yelp and it was right down the street from the office in Charlotte. Huge place, not many people, strange vibe, very cafeteria type place. The cook was hitting on the cashier and chatting her up for about 5 minutes before she was able to take my order, interesting.......  The food! The french fries were excellent, the side salad was great, the Gyro left much to be desired!",
+    "rating": 3,
+    "rated": {
+      "funny": 2,
+      "useful": 5,
+      "cool": 2
+    },
+    "photos": [],
+    "user_id": "lf1m4CbheuUR7fFZoLGRvA"
+  },
+  "CE05frh1bmdPakwHf6bm_w": {
+    "date": "7/3/2017",
+    "text": "Showmars used to be really good, before the change. They scratched the Grecian chicken from the menu, and they they changed the the chicken salad, and the grilled chicken to something that's horribly bad.",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "0W0QOB6gNZbP-1YXtwA0gA"
+  },
+  "0NsojYAfP_P549N4yzCQwg": {
+    "date": "2/12/2012",
+    "text": "I came here for lunch with my brother to take a break from studying. While I was here I ordered the old fashioned pita burger and to my surprise it was pretty good. I was thinking of ordering the seafood platter, but instead felt in the mood for something of a burger. The service was good and I had absolutely no problem. Food came promptly and well, Showmars is Showmars. Nothing new, place is clean with plenty of parking.   Showmars for me is a once in a while kind of restaurant, not my daily hang out place. Anyways, this one is not badly located. Close to school, I can come by when I'm craving for some seafood or some Greek.",
+    "rating": 4,
+    "rated": {
+      "funny": 1,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "j9Z1dcoZrwn8Ul9JTnjjug"
+  },
+  "2b6-ya9qk8ziu1_w_oGUnA": {
+    "date": "4/2/2016",
+    "text": "Great food and super fast service!!! We loved the different options of pita sandwiches they offered. Gyro platter was great and was more food for one person.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "TSDdyARHogaboHcMQiyxMA"
+  },
+  "jGnPocChljwbdUHg_az0Sg": {
+    "date": "2/10/2016",
+    "text": "First time trying this place, tried their fish sammich and I didn't find anything special about it.  I actually had to salt it because it was a little bland.    I would give it another try, there wasn't anything wrong with it but certainly not anything worth comment.",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "uaKkElyWMAQC5m3KjuM7mw"
+  },
+  "8Jy5yh8x77k1136HBYrUfA": {
+    "date": "4/9/2017",
+    "text": "Yesterday I went to this location and the experience was horrible. I had missing food and the 2 banana puddings I ordered was terrible. To much pudding, one waffer in both and 2 bananas in each container. I called the store manager when I notice my food was missing. He wasn't friendly. He said to me: What do you want me to do? (It was the way he said it, that wasn't friendly) I told him to give me a credit. I spoke to Kosta (manager) he said write his name on my receipt and bring the receipt back when I am ready to redeem my free platter. Showmars always have a lot of servers working and they need to double check the orders before given them out. Next time I want assume that there doing there job correctly. I will make sure I check my order!",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "_N3TqbX8kmUwYTbX9mWBsw"
+  },
+  "OHYM59VNMuBA-DsdM4f2xg": {
+    "date": "2/20/2013",
+    "text": "Tasty fried flounder. GYROS! Multiple order lines. Adequate service. Crowded.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "4FE8md9fMr_jZFNbcOmHsQ"
+  },
+  "hdvNF56AvSfWibwdg7QZ5g": {
+    "date": "7/9/2015",
+    "text": "Food is great! The fish sandwich is amazing. The service is not and my experience tells me that this is unique to this location. I frequent this chain across the city and I always have a pleasurable experience with service-except at this location. The staff are always short and rude. Don't expect service with a smile.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "Vv6XK2qmIfI8QtgDM1r03w"
+  },
+  "YO9Bk0r3ZBzsEUPLYZmHUg": {
+    "date": "10/16/2015",
+    "text": "Very unhappy precooked cold food and when I approached the Mgr he was like o well. This is a once and done place to eat!",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "Ycun_W0ELsC5XnzHW0GTQA"
+  },
+  "DSRloKL61yi0MF2Fv-Sy1A": {
+    "date": "12/24/2012",
+    "text": "Love the fact you can't find this store anywhere but Charlotte...... (Sarcasm).   I usually hate going out of town craving this type of food. It is definitely one of a kind. The Greek-american cuisine of Showmars is fantastic. From great salads, pitas, and fish plates, you will more than likely find something that more than suites your needs.  The food is great. The prices are modest. Service is generally pretty decent but this place will get crowded at times. I would love this place more if they didn't charge you for ranch dressing. I swear that stuff is like an addiction. If you are a fan of ranch- BEST RANCH I'VE EVER TASTED. But only good at SHOWMARS RESTAURANTS, not in the mall. For whatever reason they dilute the dressing in the mall. Burger pitas and fries are awesome!   Overall, I can appreciate a lot about Showmars, and can ALWAYS count on a good meal there. Free drink refills are always good too.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "vCYPAeCFE7W5tdn7fVtsBw"
+  },
+  "kVr0Cx-jfss10owR6AEbpw": {
+    "date": "9/11/2016",
+    "text": "Not a place to go on a diet or looking for healthy food but for the occasional fried food, great hamburgers and Greek specialties is a really good place very consistent service and food quality.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "upflYc3Ift_31p63GRicvQ"
+  },
+  "oqVEDm41wSInRfh90HASqg": {
+    "date": "6/22/2016",
+    "text": "They recently increased menu prices substantially. Now more than $9 for a gyro, fries, and a drink not including tax. No longer the value-oriented place they once were. I'll be dining there less often.",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "NA2ao3-eSb5EEodeA_JqEQ"
+  },
+  "ej9VyzuHslzeqWBF8iZPxw": {
+    "date": "11/4/2014",
+    "text": "Food is it great it's Showmars at least they can't screw that up.  Service is poor especially for pick up orders.  If you call ahead they will put you on hold until you drive to the restaurant.   Never had a problem calling in orders at any other Showmars.",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "amtPqGzbnUp8JAxReCkcHw"
+  },
+  "cnL85nnwWQ8ln3DnRxu9hA": {
+    "date": "7/20/2012",
+    "text": "Great.  Never would have expected greek gyros driving by the place.  We had great service, all the food was delicious and down to earth.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "7UUQVtOBg_MeuWfxUQ_9tQ"
+  },
+  "dcOWzGWYliFvue3kXoSFkA": {
+    "date": "11/28/2011",
+    "text": "Since moving to Charlotte, my family has eaten out more in any given year than we ever did back home. Maybe it's because this city is overflowing with places to fill your belly and even though we do get home cooking around here, it's just been all kinds of fun to sample the local goods.  We are loyal Showmars customers. The food is decent and similar to what we'd cook at home: comforting and no surprises.  I like meeting my husband here for lunch (he loves the fried fish sandwich smothered in tartar sauce), taking my daughter here for a bite when we're done at the library, or going for dinner when we're all in the mood.  My daughter loves the chicken strips meal with fries. Or the grilled cheese with fries.  I'm partial to the fried fish sandwich, the Calabash shrimp meal, the grilled chicken sandwich, and the sweet tea.  Refills included with all drink orders, friendly and on-point wait staff, efficient cashiers.  And this place has ALWAYS been clean, no matter what time we've gone in.   All Showmars locations are closed on Sundays.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 1
+    },
+    "photos": [],
+    "user_id": "Unk6o07QJ0cQkTIoTjQzWA"
+  },
+  "-CgWHeui7cyBGHUqHMQIHg": {
+    "date": "2/13/2012",
+    "text": "I probably am not best experienced to review because I rarely venture restaurant chains.  In fact, I avoid it.  Example, if ordering delivery pizza - I will search for a local pizza joint than a common chain like Domino's or Papa Johns.  I did, however, eat at Showmar's to meet up with a friend and it was my first time eating there.    Pro's:  convenience and speedy-quick in getting our meal; large selection of menu items/dinners; reasonable prices; large portions, so good quantity for the price.  Con's:  the food quality was what brings the rating down...  my friend ordered his \"regular\" a lamb gyro dinner.  Sorry... the lamb did not look appetizing.  It look liked dried processed meat.  Reminds me of the movie \"Bridesmaids\", LOL.  I ordered the seafood platter and I knew it was fried but I didn't experience the sea-smell so I was quite confident that that the fish was not spoiled.  I believe the fish was flounder but it was quite thin - well, actually VERY thin.  At least they didn't overcook it.  And baby shrimp.  OK, I'll accept it.  But I would have been more impressed if the shrimp was larger.  Coleslaw was questionable... not sure how old it was... the mayo seemed kinda \"sticky\".  Husband ordered the tenderloin dinner.  We were advised that it was not beef but pork.  I recommend that they specify that on the menu.  It was \"ok\", but quite tasteless (not marinated).  Overall, for a quick/convenient inexpensive meal, it \"filled the hole\".",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "T7cnnho7h6NHpgiFGcKong"
+  },
+  "h92GFzs9CUMSbOzy36cCkw": {
+    "date": "11/30/2008",
+    "text": "I've been to Showmars a couple of times during my lunch break with co-workers.  It's casual, reasonably priced, offers good food, and the service is very quick.  No sooner than we've ordered at the counter and sat down, someone's bringing our food out to us.   I usually always order the gyro (\"yee-roh\") pita sandwich.  Why?  I'm at a Greek-owned restaurant.  Of course I'm going to go with one of their specialties!  Plus, few places offer gyros...and I LOVE 'em!   I just try not to think of the lambs that were slaughtered so I could enjoy them rolled up in a tasty pita, dripping with tzatziki cucumber sauce.  The fries that accompany the pita are always very flavorful, too.  They're not your average french fry; they have a little spice to them.    My co-worker always orders the fish sandwich.  Why?  The menu says it's the \"best fried fish filet sandwich\" and he swears by it.  Go figure.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "_uqIpl5tzucKuIlZZPBZRw"
+  },
+  "Kik2h-e3BthhAjVV5EtubQ": {
+    "date": "7/20/2018",
+    "text": "I enjoy this Showmars. I ordered a Greek salad with chicken with Greek dressing in a taco shell. I ordered a banana pudding and a fruit punch/lemonade. The chicken is always seasoned well. It was filling and great. I had the banana pudding but I did not like the marshmallows or the meringue. There customer service is great. Their staff was polite and made sure that we were satisfied with our food and we did not have to ask for anything.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "zjMzZNjrmGdlLQCSoqEjxg"
+  },
+  "vaQ04W52SrYZCj9JZ29gVg": {
+    "date": "1/23/2019",
+    "text": "left before we ordered because the service was so bad. No one was taking orders at the counter and it was around normal dinner time. none of the waiters seemed to have any idea what was going on or what they were supposed to be doing. There was a table in the restaurant being extremely loud and obnoxious literally running out other customers as well.",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "gxPldR_ruiR475EewpxJUg"
+  },
+  "kYTPc6USpcoqWcAEDHq3Wg": {
+    "date": "6/22/2018",
+    "text": "The food was good and the price was right my date ordered a doubleburger she only got a singleburger  i said something  she didnt touch the singleburger and  they came with a hamberger patty on a plate for us to reassemble the sandwich  unprofessional i said we have to assemble it our self? My date said just leave it Im not a fan of the whole ordering like fast food and sit  with ur # and they deliver  thing  food good service bad",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "AY-laIws3S7YXNl_f_D6rQ"
+  },
+  "ffJclp_wfm82eo52YuH5YQ": {
+    "date": "5/25/2018",
+    "text": "Showmars in University is the BEST Showmars in Charlotte. There is always ample parking. Even if the line is long the service is well paced and courteous. I receive excellent food snd customer service whether I dine-in, carry-out or order ahead. The food is always fresh and prepared to my specifications.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "k9eqO_RYUs6pNq7ta7SVlA"
+  },
+  "6InlRRjdY8nDopE82wjiTQ": {
+    "date": "11/20/2016",
+    "text": "I really enjoyed my visit to this restaurant. The service was very good, the food was tasty, and even though there was a lot of people, the line moves quickly. If you're ever in the area check this place out.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "7gwxyk-ek1Og2BXnE7TbNw",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/7gwxyk-ek1Og2BXnE7TbNw/o.jpg"
+      }
+    ],
+    "user_id": "Y8AnzqYWw8A2XQ36WHjtQw"
+  },
+  "8VOPtxb3b-Tz2VIHy_fqvg": {
+    "date": "12/22/2016",
+    "text": "This is the best location for anything on the menu.    I always get the Greek salad.  It's so big and fresh.  Usually have to take half of it home.    Service is always top notch and fast.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "9iadgIYSJuuGcqrHnHmopg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Grilled chicken Greek salad",
+        "img_link": "https://s3-media4.fl.yelpcdn.com/bphoto/9iadgIYSJuuGcqrHnHmopg/o.jpg"
+      }
+    ],
+    "user_id": "K6pGU8UXR4Zub5Ar8TAjnA"
+  },
+  "bEYuXx2xc8DuoXPqUOeoUQ": {
+    "date": "12/3/2018",
+    "text": "This is my favorite Showmars location! The food is nice and one specific staff member, Maria, always drives me to return. She always recommends me to great menu items that I end up loving, and she also gives off a great vibe to the spot and she's very attentive to customers. The service here is great. Will definitely come back again.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "h2_gZjjB2fx--sfOBmPtVg"
+  },
+  "hMou_ujbIgcr3cVFuSQRSw": {
+    "date": "2/5/2018",
+    "text": "Very good. Good service. Friendly staff. Place was clean. Will go back. Got the flounder. It wasn't greasy, lighty breaded. Very good. Beats the fish camps.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "oD3PYMbOnEqS2xRPZgAh9g"
+  },
+  "S2-aDFv-_ZlsiH60h0RMxA": {
+    "date": "8/23/2016",
+    "text": "I'm totally on board with the concept of this restaurant, and I think that this particular location is done really well. It's clean, with modern decor and furniture. Went here for Saturday lunch, and all the employees were really warm and welcoming.  Our food in particular was actually pretty delicious for what it was. I ordered the Souvlaki Pita, and the pork was just a tad overdone, but the flavor was all there and proportion of ingredients was spot on. Their pita really is pretty damn good.   I don't have too much to say about a fast food place, but I left happy and full. As for the health aspect that I think everybody is harping on, it all seems to depend on what you order. I think I lucked out by getting one of the healthier options, but there seems to be a ton you can indulge on here (ahem, my mother ordering the banana pudding...)",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "rSQITvDnm1smzJl-3LJz4Q"
+  },
+  "qTrGC1xuWBJAJuUdeh4zKg": {
+    "date": "3/17/2018",
+    "text": "Ordered fish sandwich the pieces of fish was so small I was very upset. I will never order fish sandwich without checking it before leaving restaurant",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "mseMPU1i94WEeRvXt7DFnA"
+  },
+  "48mGq81QzKr8qff6cd2Pzg": {
+    "date": "8/22/2016",
+    "text": "Food was ok. Shrimp were over fried! Then look what happened to the container. Stopped eating cause there is no telling what melted styrofoam infested into my body can do to me!! They need to figure out a better way to do this! That's not very healthy at all!!",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "dv3vksg-JDq4WC6AaJ1prA",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/dv3vksg-JDq4WC6AaJ1prA/o.jpg"
+      }
+    ],
+    "user_id": "uExjqK1DzMhcZD3Dl8xQFg"
+  },
+  "7JRHRPYcC4gl2K5iyhw2Sg": {
+    "date": "5/16/2015",
+    "text": "We decided because of approximately to eat at this restaurant.  Our family walked in to a large, overhead menu board filled with American and Greek fares.  The kids order the small shrimp plate, my wife the burger, and I decided to enjoy my favorite Greek dish, the gyro.  The place was clean and bright. Everyone enjoyed their meal very much. My wife enjoyed the burger and the gyro was one of the best. It was overflowing with tasty meat, red onion, and fresh, red tomatoes.  Couldn't expect better.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "3etoleh0b8VpSfy_eDsXvw",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Outdoor seating",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/3etoleh0b8VpSfy_eDsXvw/o.jpg"
+      },
+      {
+        "img_id": "dwldpXfxAA1pGa8tibqKzw",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Signage",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/dwldpXfxAA1pGa8tibqKzw/o.jpg"
+      }
+    ],
+    "user_id": "D21VfuCSRDOLTLxmQwS6Fw"
+  },
+  "z0JnsJ-5L5rsv4omV_hb8w": {
+    "date": "10/15/2012",
+    "text": "Was introduced to this greek fast food chain by my coworker. It reminded me a lot of California's Daphnes chain. Was overwhelmed by their extensive menu, and they seem to be known for their burger in a pita (forgot what it's called). However, I was craving gyro meat, so got the gyro dinner plate which came with a side salad, pita, gyro meat, sauce, french fries, and a drink! It was about $10. Very quick in service, and I had 2 boxes to take with me to go! Tons of gyro meat, but it was a bit dry. Their pita is really good, I think they fry it, giving it that extra yumminess. I ended up making my own gyro with the veggies from the salad. Their fries were the crinkle cut kind, and it was good, but way too much! I couldn't even eat half my meal!  They have the special ice, which they put a ton of, which means getting a refill when you pick up your food! Staff are all very friendly and courteous as well. Casual greek food.",
+    "rating": 3,
+    "rated": {
+      "funny": 1,
+      "useful": 3,
+      "cool": 1
+    },
+    "photos": [
+      {
+        "img_id": "T52dpzZYd47-yXW-KByPBg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Gyro dinner plate",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/T52dpzZYd47-yXW-KByPBg/o.jpg"
+      }
+    ],
+    "user_id": "iCYMf_sHRevmzWg8la-LVw"
+  },
+  "Z2Fxj4dME7qVbqj5yvyGaQ": {
+    "date": "7/24/2016",
+    "text": "We are visiting Charlotte and this was recommended to us by the front desk worker at our hotel and we are so glad we went! The food was amazing and at a really reasonable price, we couldn't finish all that we ordered. The food was fresh and the restaurant was super clean. Also the baklava I took to go was the best I've ever had in my life.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "wmKDSkS3bJCcpdJiSRqSrQ",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/wmKDSkS3bJCcpdJiSRqSrQ/o.jpg"
+      }
+    ],
+    "user_id": "qXfEhbWJThdVwuzeS3pbwA"
+  },
+  "y5aGW-QJlEgG6pb0ikucFA": {
+    "date": "8/10/2017",
+    "text": "Put in an order to go today. When I picked it up, the woman was super rude. I will not return. This location needs to improve their to-go customer service.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "bLZ2M--AW3vvCCQIVsaIFg"
+  },
+  "iuFpXqOs_rwfZJq1zMooXw": {
+    "date": "11/22/2016",
+    "text": "I know its a chain but- I think Showmars is a great option for when you want something quick and cheap and maybe don't want the most unhealthy option. This location seemed very clean and its either new or recently redone. Their spicy feta spread is a must for a burger or a pita!",
+    "rating": 4,
+    "rated": {
+      "funny": 1,
+      "useful": 1,
+      "cool": 1
+    },
+    "photos": [],
+    "user_id": "QkhRTrURcY3DW0BLLFPsIw"
+  },
+  "jPUe7QdXgBFP37eTLoaGhQ": {
+    "date": "6/3/2017",
+    "text": "Food was good and so was service. Just ended up finding a dead bug in my food. Definitely stopped eating the rest. I'm sure it's not a normal occurrence, it seemed pretty clean in there. I must've been the unlucky person to get it, but that was still too bad.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "qf4xFLz92Zm8urkv2FvC4g"
+  },
+  "PhSVp9wCBPo4U0Y5MuImPg": {
+    "date": "1/27/2018",
+    "text": "Greasy overpriced food.  Service is mediocre and the restaurant itself is a mediocre place.  My family and I stopped by for dinner...out of five people, only one was happy with the food...and she had chicken fingers so that let's you know her level of flavor...jk jk she is only 6 so she is still being introduced to different kinds if food.  Nonetheless, I had too much money for only a six-year ild to be happy with her meal...next time I might as well do drive-thru for tasteless greasy food at a much lower cost.",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "ZQQD3-Hd53V-4gpR4c-wpA"
+  },
+  "59Y35xOm7whbXGX2RvjlUw": {
+    "date": "1/13/2016",
+    "text": "Famous Tenderloin Tips Platter is delicious and HUGE. I also like the fish dinner and it is likewise large.   Many locations.  You cannot go wrong.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "zM19L__ZTFQ7DUC_Of50Ng"
+  },
+  "nu-arPrCzvm9jB2X2XfbUQ": {
+    "date": "3/4/2013",
+    "text": "Usually have to make sacrifices when you are looking for something good, fast, and inexpensive, but Showmars fits the bill.  Granted it's probably not the healthiest of food options, but they provide quick service at affordable prices.  Win win.  My one complaint about this location is the parking lot.  It gets super busy during lunch and between some of the landscaping and the layout, the parking situation can get pretty messy.  Overall the staff is friendly and really cater to your needs while you are eating.  There's always a person walking around making sure you have refills and you got everything you need to enjoy your eating experience.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 2,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "Ry1O_KXZHGRI8g5zBR3IcQ"
+  },
+  "CrGyjq6e6Cix7btpOf9s5A": {
+    "date": "7/24/2019",
+    "text": "Great food. Great service.  Flounder is delicious; but don't neglect to try the onion rings and the fried okra.  Don't know about the deserts: their plates are so big!",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "zkXlKm0C3s0AHcm10PSG_A"
+  },
+  "f7MOu4G-oH6udYmi-zRvOg": {
+    "date": "1/6/2019",
+    "text": "Showmars is a great choice if you're not in the mood to cook but you want good food.  This restaurant offers a combination of Greek, American and Southern cuisine with lots of delicious options to choose from. They make the food fresh to order and bring it to your table piping hot.  The runners and manager are very hands on, they stop at your table every few minutes to see if you need anything including an endless refill of your beverage (the half lemonade/half ice tea aka Arnold Palmer is amazing). The atmosphere at Showmars is very nice and you won't miss the game, because they have wall to wall televisions streaming the hottest sports games.  The dinning room at the university city location is immaculate (the bathroom needed a little sweeping up). I'm looking forward to my next Showmars visit.",
+    "rating": 5,
+    "rated": {
+      "funny": 2,
+      "useful": 3,
+      "cool": 3
+    },
+    "photos": [
+      {
+        "img_id": "rY285c3Z0TZlCaq7cGwrNw",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Inside view",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/rY285c3Z0TZlCaq7cGwrNw/o.jpg"
+      },
+      {
+        "img_id": "F_wXKqGaf3rgaK1ml6vX3w",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/F_wXKqGaf3rgaK1ml6vX3w/o.jpg"
+      },
+      {
+        "img_id": "f31IXOFoSVwheowz0pc9NA",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media2.fl.yelpcdn.com/bphoto/f31IXOFoSVwheowz0pc9NA/o.jpg"
+      }
+    ],
+    "user_id": "698T9yypM-lneS0YBZHMzg"
+  },
+  "n65W231E0o-r5pz1ZZ1xFA": {
+    "date": "12/29/2018",
+    "text": "This location the service is always top notch, you can't drink all of drink because it's gonna be filled up constantly! The food is always fresh and full of flavor. I love the fried okra they have along with so many options on the menu! The chicken santorini is really good, along with a local favorite fish sandwich! All in all you can't go wrong here! Only complaint is I wish there was a location in Harrisburg!",
+    "rating": 5,
+    "rated": {
+      "funny": 3,
+      "useful": 5,
+      "cool": 4
+    },
+    "photos": [
+      {
+        "img_id": "Cq2B3YWxUxepr60lp1aG1A",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Chicken santorini",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/Cq2B3YWxUxepr60lp1aG1A/o.jpg"
+      }
+    ],
+    "user_id": "98D4Nr5H6WcbYhAyG8GsIw"
+  },
+  "nFAU0zfM_BupYxx15Ecgdg": {
+    "date": "3/25/2019",
+    "text": "I have come to this location twice and I had a great experience. Both times I ordered take out. They got the Order correct and it was done in a timely manner. They have a separate entrance for take out which is a plus, but I don't like fact that they don't have a drive thru. I love the Showmars brand as a whole and I'm certainly happy with my experience at this location.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "37FUZQAVQNT99CjxX3-hYQ"
+  },
+  "VMEv6thl8TdpTV1E5Cxr4Q": {
+    "date": "4/4/2019",
+    "text": "The gyro was hit and miss....the meat was tasty and they gave you a lot, but the pita was dry and broke apart.  Service was fast and friendly.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "yWIS8k-gJ3bL2XnBgm3yfQ"
+  },
+  "PXqWlqA5nildJNow9tm9fg": {
+    "date": "3/16/2019",
+    "text": "I don't live near a Showmars so while being in the area, my husband and I decided to dine in. The restaurant was clean and well kept. The workers were very welcoming, knowledgeable, personable and professional.  I ordered the mini meal (calabash shrimp). It was just the right portion and tasted great.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "KOr-cB-a_lBKzzgs-hPCvA"
+  },
+  "hMHwDtiauh9rdkpTrODIQA": {
+    "date": "1/15/2019",
+    "text": "Showmar's can satisfy a craving for southern food and Greek cuisine at the same time. How good is this. Well it was delightful. They have one of the best Arnold Palmer's (half and half) around. My gyro tasted authentic and truly hit the spot. Tzatziki sauce so perfect it's like someone's giagia made it special just for me. I will go back.",
+    "rating": 4,
+    "rated": {
+      "funny": 2,
+      "useful": 3,
+      "cool": 4
+    },
+    "photos": [
+      {
+        "img_id": "iF87tNOfzgP-sh_jSjgFdg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Good and hot. Fast service today.",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/iF87tNOfzgP-sh_jSjgFdg/o.jpg"
+      }
+    ],
+    "user_id": "Izu_-bu6hfWpKGqFp1bbCw"
+  },
+  "CFDxO2dFoKNVpIADa3evSQ": {
+    "date": "4/29/2018",
+    "text": "I've ordered a few times from this location and have been very pleased with each visit. They are accurate with their to-go orders  and have a register specifically for this. I call ahead and never have to wait once I get there.   The menu is Greek-American food and always tastes good.  My favorite items are the fried fish and the Greek Salad. I have not dined in, but from walking in the dining area is very colorful and looks clean.",
+    "rating": 4,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "8XJ7DpZhQrzxNIJDRShf5A"
+  },
+  "DoBqCoLvzDmgYdOGn-hmGA": {
+    "date": "2/15/2018",
+    "text": "I so overlook Shomar's as a lunch option, but when I go I'm always glad I did.  Gotta echo my little Yelp buddy Abby L who states, \"The service is always speedy and good.  The staff is nice . . . food is good, tastes fresh and served hot!\"  Bingo.  What more could one want for a quick lunch either alone or with others?  Easy in/out, plenty of parking and solid Greek/Southern-style food.  I especially like their fish sandwich.  Hot, flaky, and tasty on a toasted bun.  I say, \"Give 'em a whirl.\"  Shomar's for lunch is a no brainer, in my book.",
+    "rating": 4,
+    "rated": {
+      "funny": 5,
+      "useful": 8,
+      "cool": 4
+    },
+    "photos": [],
+    "user_id": "CjHWRUKXhhley9N9NLS07Q"
+  },
+  "f4I-Whw4a-iM06zD45ALWw": {
+    "date": "8/12/2017",
+    "text": "All-American pita is about as good as it gets. Two burger patties with American cheese, lettuce, tomato, and a sauce that's awesome, all crammed in a pita. Fries are great.   The chicken pita is also great. We always stop here when we are through the area. This is a great place if your rolling through. Stop by and check it out.",
+    "rating": 5,
+    "rated": {
+      "funny": 1,
+      "useful": 2,
+      "cool": 1
+    },
+    "photos": [
+      {
+        "img_id": "3SUEgKIlWgJuRA0DR41MPA",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Side view",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/3SUEgKIlWgJuRA0DR41MPA/o.jpg"
+      },
+      {
+        "img_id": "BWg3FsjhJQtzsfDyNH18cg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. All American pita",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/BWg3FsjhJQtzsfDyNH18cg/o.jpg"
+      },
+      {
+        "img_id": "UZQ7h83GOZu9arCiQ5HyQg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Menu board",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/UZQ7h83GOZu9arCiQ5HyQg/o.jpg"
+      }
+    ],
+    "user_id": "p7avACtWc71RvAAhr_2k8g"
+  },
+  "kFmKGymT8ojcmtGU7STXjg": {
+    "date": "10/3/2018",
+    "text": "So this was my first time eating here, I told Maria about this being my first time visiting and if she had any advice. Of course she didn't. I asked for military discount and she was quick to say No. It always amazes me when I get a no without any reason. She was young this is a college town so I guess I will need to get use to lack of respect for soldiers. Place was clean the hello when you walk in is friendly and then it is straight to business with no personality. Maria thought it was more important to talk to her coworkers than take care of the customer.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "B8D71MGKfjLmPYN-O1KV0w",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. Giros",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/B8D71MGKfjLmPYN-O1KV0w/o.jpg"
+      }
+    ],
+    "user_id": "j2m4gjEvfB0CRZZ7sBkVxw"
+  },
+  "chezZg_Ozg6VZJajOUH0GQ": {
+    "date": "8/8/2018",
+    "text": "Being that I am from New York, I wanted to try something different. The service was decent, and the staff was attentive. However the food wasn't that good. The only thing I enjoyed was the Shrimp. The Flounder was bland. The French Fries weren't seasoned well. With the ketchup on top, it just made it worse. I didn't even want to try the Hush Puppies, and didn't finish my food. I didn't enjoy it.",
+    "rating": 2,
+    "rated": {
+      "funny": 1,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "yVOEzPfhab5QX1le0tJXTw",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media2.fl.yelpcdn.com/bphoto/yVOEzPfhab5QX1le0tJXTw/o.jpg"
+      },
+      {
+        "img_id": "Es3zjnFDq-SeftquXhKtkg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/Es3zjnFDq-SeftquXhKtkg/o.jpg"
+      },
+      {
+        "img_id": "nuW-fHKbag9wxmAHvM9H7Q",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/nuW-fHKbag9wxmAHvM9H7Q/o.jpg"
+      }
+    ],
+    "user_id": "Qc6iuXqGO56c2YX5OrLzDw"
+  },
+  "0XU7Nb-SUNdG4HXKIg2Ttw": {
+    "date": "4/5/2017",
+    "text": "Very nice location.  I usually come to this place when I'm on lunch break because my job is nearby.  The service is always speedy and good.  The staff is nice.  The restaurant is clean and spacious.  Plenty of room for a busy lunch or dinner crowd.  The food is good, tastes fresh and served hot!",
+    "rating": 4,
+    "rated": {
+      "funny": 1,
+      "useful": 4,
+      "cool": 3
+    },
+    "photos": [
+      {
+        "img_id": "CBZh2VJK7etnOJiqhCybbg",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/CBZh2VJK7etnOJiqhCybbg/o.jpg"
+      }
+    ],
+    "user_id": "xDl9ZF3SckkZde_48W6WeA"
+  },
+  "0fheEDbpwQdMsRO-zgPLrw": {
+    "date": "2/11/2019",
+    "text": "Disappointed ordered the Greek Salad with - chicken and long strands of black hair in salad",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "6JfC8Nlu8o0NVsBhVTTKHg"
+  },
+  "N6fyWZYb4-KV6rRENTl_Ig": {
+    "date": "2/17/2019",
+    "text": "Very quick service. I like how they have a separate side for to go orders.  The food is good.  There  staff were all pleasant !",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "_Qc9w-j8jRiAoBGYwbeVHA"
+  },
+  "L1vHxwpgPeScDehIV16P2g": {
+    "date": "12/22/2018",
+    "text": "Really impressed by clean, bright interior, food, and excellent level of service by all the staff. I came here and ordered a Greek salad and it was HUGE! Friends ordered a fish sandwich and black bean salad and another ordered a grill chicken salad. Everyone enjoyed their meal but I think we were really pleasantly surprised at how many staff members stopped by to see if we needed anything or how they could help. Super friendly folks. Would definitely stop here for lunch if I'm around town.",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "m6xgOCZsCtAVJXVbTkaExQ"
+  },
+  "odtXWHrcWLg51up84RTTsQ": {
+    "date": "1/24/2019",
+    "text": "Showmars got rid of the fried Taco Shell used for the salads!!! I WANT THE SHELL BACK ... its now served in a BOWL with 1 Pita Bread (not authentic pita bread - it can't form a pocket and it too thick)  Mr. Showmars!!!! BRING back the OPTION to at least have a choice of a Cermaric Bowl or a Fried TACO Bowl!!",
+    "rating": 2,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "mbW81y0_L7RszPbrTsa-XQ"
+  },
+  "bF6ZgKREignUmq9UxCL-Mw": {
+    "date": "6/29/2018",
+    "text": "So I've always been a fan of Showmars since I was a little girl, but within the past 5 months, they have seen a lot more of me! I've craved a grilled chicken chef salad in the taco bowl at least once a week and my husband always gives in to my craving! This location is always clean and the staff is always friendly. The food is served promptly and they have very reasonable prices!! Growing up, I would never eat their French fries, but within the past couple of years, they've changed the recipe or something and I now eat them before eating the rest of my meal! The remodel/renovation work has now created a more modern feel but with all of the traditional family favorites! When I'm not demolishing a salad, I go for the old-fashioned pita and fries and I'm pleased every time!! Give them a try!! I promise you will NOT be disappointed! They've also added new healthy options so there's something for everyone!",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "jaVZ1pbPtg0pjndbKrDggg"
+  },
+  "PIeGZw0RE1Y6EJPyX_YIPA": {
+    "date": "12/14/2017",
+    "text": "I love Showmars. They have a great variety of food good customer service and everything is made fresh I would highly recommend this to anyone who is new to the North Carolina area",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [
+      {
+        "img_id": "3EUOpkIsax89YQ-eF1vjOQ",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States. This is my favorite restaurant in Charlotte. I moved here a while ago and they have such a variety I come here at least once a week",
+        "img_link": "https://s3-media3.fl.yelpcdn.com/bphoto/3EUOpkIsax89YQ-eF1vjOQ/o.jpg"
+      },
+      {
+        "img_id": "YraxQvmLmqaU8CuKTdneIw",
+        "caption": "Photo of Showmars - University - Charlotte, NC, United States",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/YraxQvmLmqaU8CuKTdneIw/o.jpg"
+      }
+    ],
+    "user_id": "GRQE_susPpQSPnk0935yNA"
+  },
+  "IuOsOgaT3gXGBV00JbLFEg": {
+    "date": "2/21/2017",
+    "text": "I love Showmars! This is a nice location too.  Showmars is one of my favorite places to eat in Charlotte :)",
+    "rating": 5,
+    "rated": {
+      "funny": 0,
+      "useful": 1,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "jZbBJomDyrCl700lYhczsA"
+  }
+}

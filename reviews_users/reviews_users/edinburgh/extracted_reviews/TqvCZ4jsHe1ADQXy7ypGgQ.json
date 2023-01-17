@@ -1,0 +1,44 @@
+{
+  "JC96Lzuaf4Gs14RL72pwpw": {
+    "date": "11/18/2007",
+    "text": "Pizza Hut have really fast service. Usually I order my food trought internet and then they delivery to my flat in the same time that I have selected. The food is good and cheap.",
+    "rating": 3,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "iZE1J4HZ7CQdiL76w6vsJw"
+  },
+  "VCG01GKwCAKLVV4Ro6EADQ": {
+    "date": "6/8/2018",
+    "text": "Pizza delivered cold and 1.5 hours late!  Called store several times and was told they were lost.  Driver refused to provide receipt of purchase.  Called store again after pizza was delivered and was hung up on twice (once by the manager himself).  DO NOT ORDER PIZZA FROM STORE!!!",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 0,
+      "cool": 0
+    },
+    "photos": [],
+    "user_id": "tNaXRhFq3D3-BqDhXkRxsQ"
+  },
+  "MXis7A5w8-4f6XPlchUjJQ": {
+    "date": "4/6/2014",
+    "text": "This was my second order from here and it was shocking. The boxes had been shaken around severely judging by the state of the pizza that was delivered, a twisted mess of pizza slices. We also only got 2 of our 3 sides, the delivery driver want very informative as he just mumbled something and left.  Really annoying and waste of money, wouldn't recommend.",
+    "rating": 1,
+    "rated": {
+      "funny": 0,
+      "useful": 2,
+      "cool": 1
+    },
+    "photos": [
+      {
+        "img_id": "VVDKqaDJLMNTB3lBdkW_Yw",
+        "caption": "Photo of Pizza Hut UK - Edinburgh, United Kingdom",
+        "img_link": "https://s3-media1.fl.yelpcdn.com/bphoto/VVDKqaDJLMNTB3lBdkW_Yw/o.jpg"
+      }
+    ],
+    "user_id": "Bj9D-osVFbFzrPNvydQncQ"
+  }
+}
